@@ -1,3 +1,0 @@
-C:/Users/knune/source/repos/A1CST8152/out/build/x64-Debug/CMakeFiles/A1_Nunez301.dir
-C:/Users/knune/source/repos/A1CST8152/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/knune/source/repos/A1CST8152/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
